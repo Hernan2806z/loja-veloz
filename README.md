@@ -15,4 +15,4 @@ Projeto prático de modernização de infraestrutura, incluindo conteinerizaçã
 * GitHub Actions (Pipeline de CI/CD)
 
 ## Link para o Vídeo Pitch
-[Insira o link do YouTube aqui]
+https://youtu.be/IIgWRQyI1Oo?feature=shared
